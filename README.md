@@ -1,4 +1,4 @@
-# 🚀 **Deploy an EKS Cluster with Terraform – Like a Boss!**  
+# 🚀 Terraform Project
 
 ![banner](https://imgur.com/H3vXZeI.png)
 
